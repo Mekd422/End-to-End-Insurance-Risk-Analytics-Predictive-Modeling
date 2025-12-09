@@ -1,4 +1,4 @@
-ACIS – End-to-End Insurance Risk Analytics & Predictive Modeling
+# ACIS – End-to-End Insurance Risk Analytics & Predictive Modeling
 
 This repository contains the deliverables for the AlphaCare Insurance Solutions (ACIS) Analytics Challenge. The project covers end-to-end data analysis, predictive modeling, and premium optimization for an insurance portfolio.
 
@@ -13,21 +13,6 @@ Test differences in risk across provinces, zip codes, and client demographics
 Build predictive models for claim probability and severity
 
 Enable dynamic pricing and premium optimization for AlphaCare Insurance Solutions
-
-Repository Structure
-ACIS-Project/
-├── data/
-│   ├── raw/                  # Raw datasets (MachineLearningRating_v3.txt)
-│   ├── interim/              # Cleaned and preprocessed datasets
-├── src/                      # Source scripts
-│   ├── task1_eda.py          # EDA scripts
-│   ├── task3_hypothesis.py   # A/B testing scripts
-│   ├── task4_modeling.py     # Predictive modeling scripts
-├── reports/                  # Generated reports & figures
-├── dvc.yaml                  # DVC pipeline definition
-├── .gitignore
-├── README.md
-└── requirements.txt
 
 Data
 
