@@ -6,6 +6,8 @@ seaborn
 jupyter
 notebook
 ipykernel
+shap
+xgboost
 
 papermill
 nbconvert
